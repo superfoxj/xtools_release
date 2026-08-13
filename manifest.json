@@ -1,9 +1,9 @@
 {
-    "version":  "1.1.22",
-    "releaseDate":  "2026-08-13T10:22:45Z",
+    "version":  "1.1.23",
+    "releaseDate":  "2026-08-13T10:30:18Z",
     "mandatory":  false,
     "packageType":  "patch",
-    "downloadUrl":  "https://github.com/superfoxj/xtools_release/releases/download/v1.1.22/xTools-1.1.22-windows-x64.zip",
-    "sha256":  "08f2b11201a7e4df4cc7676fdba710e4b08d61771fecc82a7f5558bb84c22da1",
-    "releaseNotes":  "修复 GitHub Repository 浏览器 404：改为浏览公开的 xtools_release 仓库；更新检测改用 GitHub Contents API，避免 raw 缓存导致漏报新版本。"
+    "downloadUrl":  "https://github.com/superfoxj/xtools_release/releases/download/v1.1.23/xTools-1.1.23-windows-x64.zip",
+    "sha256":  "bf3dfaa6f91d2c6aba3bd8d04a276aebd3370256eec7b3a25aee021c0ca4cb40",
+    "releaseNotes":  "GitHub 仓库浏览改为读取当前账号的全部仓库，包括私有仓库；使用 Windows 凭据管理器保存 GitHub Token。"
 }
