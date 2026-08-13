@@ -1,9 +1,9 @@
 {
-    "version":  "1.1.25",
-    "releaseDate":  "2026-08-13T11:25:59Z",
+    "version":  "1.1.26",
+    "releaseDate":  "2026-08-13T12:25:40Z",
     "mandatory":  false,
     "packageType":  "patch",
-    "downloadUrl":  "https://github.com/superfoxj/xtools_release/releases/download/v1.1.25/xTools-1.1.25-windows-x64.zip",
-    "sha256":  "ad862bba10b73e26c32e6886a3d2e0cfd0b13758fe711400a710e23ff9264258",
-    "releaseNotes":  "新增 Docker Hub Images：默认列出 superfoxj 的公开镜像；配置 Docker Hub Access Token 后可列出私有镜像。"
+    "downloadUrl":  "https://github.com/superfoxj/xtools_release/releases/download/v1.1.26/xTools-1.1.26-windows-x64.zip",
+    "sha256":  "12275f5eac264d34daf376e94aa855515c81c6ae54870b73a0ac6ee0d42303ea",
+    "releaseNotes":  "Docker Hub 镜像列表新增最新 Tags 展示；每个镜像 Tag 旁增加复制按钮，例如 superfoxj/openwebui_cui:v2。"
 }
