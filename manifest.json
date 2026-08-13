@@ -1,0 +1,9 @@
+{
+    "version":  "1.1.20",
+    "releaseDate":  "2026-08-13T10:16:11Z",
+    "mandatory":  false,
+    "packageType":  "patch",
+    "downloadUrl":  "https://github.com/superfoxj/xtools_release/releases/download/v1.1.20/xTools-1.1.20-windows-x64.zip",
+    "sha256":  "fe226dc741e1469ed36f8213f4f6a4222122546365adaf9c6a52b1ad18b7d53b",
+    "releaseNotes":  "修复 GitHub Repository 浏览器：改为浏览公开的 xtools_release 仓库，避免新机器因私有源代码仓库返回 404。"
+}
