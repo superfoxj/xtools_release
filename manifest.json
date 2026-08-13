@@ -1,9 +1,9 @@
 {
-    "version":  "1.1.14",
-    "releaseDate":  "2026-08-13T07:23:49Z",
+    "version":  "1.1.15",
+    "releaseDate":  "2026-08-13T07:43:22Z",
     "mandatory":  false,
     "packageType":  "patch",
-    "downloadUrl":  "https://github.com/superfoxj/xtools_release/releases/download/v1.1.14/xTools-1.1.14-windows-x64.zip",
-    "sha256":  "d44a8c5d5ff4b542b269e2104f45fe2fd898d65a642e4584d94287468306a46d",
-    "releaseNotes":  "改为差量更新，只下载发生变化的程序文件；更新失败时自动保留旧版本。"
+    "downloadUrl":  "https://github.com/superfoxj/xtools_release/releases/download/v1.1.15/xTools-1.1.15-windows-x64.zip",
+    "sha256":  "64519c3407d9c15def7dbb647c6a79d29a11cccc28e3ce71d2c1a6af806b1cc9",
+    "releaseNotes":  "移除主界面顶部的 xTools Main Menu 标题栏，增加可用空间。"
 }
