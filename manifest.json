@@ -1,9 +1,9 @@
 {
-  "version": "1.1.31",
-  "releaseDate": "2026-08-17T03:15:15Z",
+  "version": "1.1.32",
+  "releaseDate": "2026-08-17T03:21:47Z",
   "mandatory": false,
   "packageType": "patch",
-  "downloadUrl": "https://github.com/superfoxj/xtools_release/releases/download/v1.1.31/xTools-1.1.31-windows-x64.zip",
-  "sha256": "aa1bf9aca410a0798efc4c6591f53dbdbc7938a0984f9216adefeb870d5d288d",
-  "releaseNotes": "Added a file checksum tool with drag-and-drop support for MD5, CRC-32, SHA-1, SHA-256, and SHA-512."
+  "downloadUrl": "https://github.com/superfoxj/xtools_release/releases/download/v1.1.32/xTools-1.1.32-windows-x64.zip",
+  "sha256": "cffd0090d2b9c3505c9183a716f1c6fad561aee0158552cc1b5f41ce87ef5472",
+  "releaseNotes": "Fixed Windows file drag-and-drop acceptance for the File Checksums tool."
 }
