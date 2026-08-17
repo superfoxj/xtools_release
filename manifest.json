@@ -1,9 +1,9 @@
 {
-    "version":  "1.1.30",
-    "releaseDate":  "2026-08-14T02:47:23Z",
-    "mandatory":  false,
-    "packageType":  "patch",
-    "downloadUrl":  "https://github.com/superfoxj/xtools_release/releases/download/v1.1.30/xTools-1.1.30-windows-x64.zip",
-    "sha256":  "49805920e1f599e5a281f539cd0888750a45123264410f1a74665f1d3689f662",
-    "releaseNotes":  "修复 Windows 开机后台启动和更新版本校验问题。"
+  "version": "1.1.31",
+  "releaseDate": "2026-08-17T03:15:15Z",
+  "mandatory": false,
+  "packageType": "patch",
+  "downloadUrl": "https://github.com/superfoxj/xtools_release/releases/download/v1.1.31/xTools-1.1.31-windows-x64.zip",
+  "sha256": "aa1bf9aca410a0798efc4c6591f53dbdbc7938a0984f9216adefeb870d5d288d",
+  "releaseNotes": "Added a file checksum tool with drag-and-drop support for MD5, CRC-32, SHA-1, SHA-256, and SHA-512."
 }
