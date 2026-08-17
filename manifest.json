@@ -1,9 +1,9 @@
 {
-  "version": "1.1.32",
-  "releaseDate": "2026-08-17T03:21:47Z",
+  "version": "1.1.33",
+  "releaseDate": "2026-08-17T03:38:03Z",
   "mandatory": false,
   "packageType": "patch",
-  "downloadUrl": "https://github.com/superfoxj/xtools_release/releases/download/v1.1.32/xTools-1.1.32-windows-x64.zip",
-  "sha256": "cffd0090d2b9c3505c9183a716f1c6fad561aee0158552cc1b5f41ce87ef5472",
-  "releaseNotes": "Fixed Windows file drag-and-drop acceptance for the File Checksums tool."
+  "downloadUrl": "https://github.com/superfoxj/xtools_release/releases/download/v1.1.33/xTools-1.1.33-windows-x64.zip",
+  "sha256": "aee4641290390be916109747c39a7275b878bbb576bfadb4c5cbd39b89fa1c12",
+  "releaseNotes": "Fixed Windows drag-and-drop acceptance by explicitly returning the Copy drop effect."
 }
