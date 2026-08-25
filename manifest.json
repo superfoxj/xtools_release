@@ -1,9 +1,9 @@
 {
-  "version": "1.1.34",
-  "releaseDate": "2026-08-17T03:53:36Z",
+  "version": "1.1.35",
+  "releaseDate": "2026-08-25T08:24:12Z",
   "mandatory": false,
   "packageType": "patch",
-  "downloadUrl": "https://github.com/superfoxj/xtools_release/releases/download/v1.1.34/xTools-1.1.34-windows-x64.zip",
-  "sha256": "804645d87ba0774b1d5b57d7179f05d71fa55782765c9e364bdc860f1876e24d",
-  "releaseNotes": "Reworked Windows file drag-and-drop through the runner WM_DROPFILES path to avoid rejected OLE drop targets."
+  "downloadUrl": "https://github.com/superfoxj/xtools_release/releases/download/v1.1.35/xTools-1.1.35-windows-x64.zip",
+  "sha256": "6e9875bcf5453785b1a9b58f0bed7e948cb49ceffb829ac27ff2850ef52e6d70",
+  "releaseNotes": "Added an Always on top switch in Settings and persisted the window pinning preference."
 }
