@@ -1,9 +1,9 @@
 {
-  "version": "1.1.36",
-  "releaseDate": "2026-08-25T08:32:03Z",
+  "version": "1.1.37",
+  "releaseDate": "2026-08-25T08:39:43Z",
   "mandatory": false,
   "packageType": "patch",
-  "downloadUrl": "https://github.com/superfoxj/xtools_release/releases/download/v1.1.36/xTools-1.1.36-windows-x64.zip",
-  "sha256": "d3a9887153af50ec2db212b61d42e8ad018dbdb4ae411200ebf9029b855ec083",
-  "releaseNotes": "Moved the Always on top switch to the main UI below the Settings button."
+  "downloadUrl": "https://github.com/superfoxj/xtools_release/releases/download/v1.1.37/xTools-1.1.37-windows-x64.zip",
+  "sha256": "e9cf4984d6f82a032ac56d599892d84feea640dbf1ecf3569889ad54240a5739",
+  "releaseNotes": "Made the main UI on-top toggle compact and removed its visible label."
 }
