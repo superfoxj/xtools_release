@@ -1,9 +1,9 @@
 {
-  "version": "1.1.35",
-  "releaseDate": "2026-08-25T08:24:12Z",
+  "version": "1.1.36",
+  "releaseDate": "2026-08-25T08:32:03Z",
   "mandatory": false,
   "packageType": "patch",
-  "downloadUrl": "https://github.com/superfoxj/xtools_release/releases/download/v1.1.35/xTools-1.1.35-windows-x64.zip",
-  "sha256": "6e9875bcf5453785b1a9b58f0bed7e948cb49ceffb829ac27ff2850ef52e6d70",
-  "releaseNotes": "Added an Always on top switch in Settings and persisted the window pinning preference."
+  "downloadUrl": "https://github.com/superfoxj/xtools_release/releases/download/v1.1.36/xTools-1.1.36-windows-x64.zip",
+  "sha256": "d3a9887153af50ec2db212b61d42e8ad018dbdb4ae411200ebf9029b855ec083",
+  "releaseNotes": "Moved the Always on top switch to the main UI below the Settings button."
 }
