@@ -1,9 +1,9 @@
 {
-  "version": "1.1.37",
-  "releaseDate": "2026-08-25T08:39:43Z",
+  "version": "1.1.38",
+  "releaseDate": "2026-08-25T14:14:21Z",
   "mandatory": false,
   "packageType": "patch",
-  "downloadUrl": "https://github.com/superfoxj/xtools_release/releases/download/v1.1.37/xTools-1.1.37-windows-x64.zip",
-  "sha256": "e9cf4984d6f82a032ac56d599892d84feea640dbf1ecf3569889ad54240a5739",
-  "releaseNotes": "Made the main UI on-top toggle compact and removed its visible label."
+  "downloadUrl": "https://github.com/superfoxj/xtools_release/releases/download/v1.1.38/xTools-1.1.38-windows-x64.zip",
+  "sha256": "6a6309611b59dc0cc219557a7b376ad287bd5ca90f1f1fbe31a7da0a24990254",
+  "releaseNotes": "Moved the compact Always on top toggle to the bottom-right corner of the main UI."
 }
