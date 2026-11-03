@@ -1,9 +1,9 @@
 {
-  "version": "1.1.38",
-  "releaseDate": "2026-08-25T14:14:21Z",
+  "version": "1.1.39",
+  "releaseDate": "2026-11-03T07:56:32Z",
   "mandatory": false,
   "packageType": "patch",
-  "downloadUrl": "https://github.com/superfoxj/xtools_release/releases/download/v1.1.38/xTools-1.1.38-windows-x64.zip",
-  "sha256": "6a6309611b59dc0cc219557a7b376ad287bd5ca90f1f1fbe31a7da0a24990254",
-  "releaseNotes": "Moved the compact Always on top toggle to the bottom-right corner of the main UI."
+  "downloadUrl": "https://github.com/superfoxj/xtools_release/releases/download/v1.1.39/xTools-1.1.39-windows-x64.zip",
+  "sha256": "46287f7ff85ed9b6b53e2ae6dba3f0bfc8b06b18ac09ad762789f78d5668faa0",
+  "releaseNotes": "Added QR code image decoding and browser image drag support."
 }
