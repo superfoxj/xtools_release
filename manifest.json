@@ -1,9 +1,9 @@
 {
-  "version": "1.1.40",
-  "releaseDate": "2026-11-03T08:02:49Z",
+  "version": "1.1.41",
+  "releaseDate": "2026-11-03T08:11:56Z",
   "mandatory": false,
   "packageType": "patch",
-  "downloadUrl": "https://github.com/superfoxj/xtools_release/releases/download/v1.1.40/xTools-1.1.40-windows-x64.zip",
-  "sha256": "0601566e3f4749314975c8502cf8e445d44623cd9e4b28bbb0a3d9669ec8ae6c",
-  "releaseNotes": "Fixed QR decoding for indexed PNG images."
+  "downloadUrl": "https://github.com/superfoxj/xtools_release/releases/download/v1.1.41/xTools-1.1.41-windows-x64.zip",
+  "sha256": "4860809ebdb46065a1fcdf5b52bfde13f0cdef9dcf0ec94a3a653f8754a9dcda",
+  "releaseNotes": "Restart the application without administrator privileges after updates."
 }
