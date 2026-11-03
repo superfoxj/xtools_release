@@ -1,9 +1,9 @@
 {
-  "version": "1.1.41",
-  "releaseDate": "2026-11-03T08:11:56Z",
+  "version": "1.1.42",
+  "releaseDate": "2026-11-03T08:34:32Z",
   "mandatory": false,
   "packageType": "patch",
-  "downloadUrl": "https://github.com/superfoxj/xtools_release/releases/download/v1.1.41/xTools-1.1.41-windows-x64.zip",
-  "sha256": "4860809ebdb46065a1fcdf5b52bfde13f0cdef9dcf0ec94a3a653f8754a9dcda",
-  "releaseNotes": "Restart the application without administrator privileges after updates."
+  "downloadUrl": "https://github.com/superfoxj/xtools_release/releases/download/v1.1.42/xTools-1.1.42-windows-x64.zip",
+  "sha256": "4faa1851fc77b34f250ec411742c2f58aa2c632a1013dacfd46d8e6ec4bb7389",
+  "releaseNotes": "Improve ordinary-user restart after updates."
 }
