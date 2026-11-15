@@ -1,9 +1,9 @@
 {
-  "version": "1.1.42",
-  "releaseDate": "2026-11-03T08:34:32Z",
-  "mandatory": false,
-  "packageType": "patch",
-  "downloadUrl": "https://github.com/superfoxj/xtools_release/releases/download/v1.1.42/xTools-1.1.42-windows-x64.zip",
-  "sha256": "4faa1851fc77b34f250ec411742c2f58aa2c632a1013dacfd46d8e6ec4bb7389",
-  "releaseNotes": "Improve ordinary-user restart after updates."
+    "version":  "1.1.43",
+    "releaseDate":  "2026-11-15T13:26:21Z",
+    "mandatory":  false,
+    "packageType":  "patch",
+    "downloadUrl":  "https://github.com/superfoxj/xtools_release/releases/download/v1.1.43/xTools-1.1.43-windows-x64.zip",
+    "sha256":  "5d5132cf7fcdc4316473004e398b39c0321cb0e17e7c5dd855f68d37391e298e",
+    "releaseNotes":  "Fixed QR Code Reader so images can be dragged directly from a web browser."
 }
