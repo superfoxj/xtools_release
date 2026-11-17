@@ -1,9 +1,10 @@
 {
-    "version":  "1.1.46",
-    "releaseDate":  "2026-11-17T06:09:06Z",
+    "version":  "1.1.47",
+    "releaseDate":  "2026-11-17T09:08:45Z",
     "mandatory":  false,
     "packageType":  "patch",
-    "downloadUrl":  "https://github.com/superfoxj/xtools_release/releases/download/v1.1.46/xTools-1.1.46-windows-x64.zip",
-    "sha256":  "b06746b607cb17d701fa769aafa5de047db400a32c129cc64ac03d54b6581471",
-    "releaseNotes":  "Added search box, newest-first sorting and an adjustable top-N limit to the GitHub repository list."
+    "baseVersion":  "1.1.42",
+    "downloadUrl":  "https://github.com/superfoxj/xtools_release/releases/download/v1.1.47/xTools-1.1.47-windows-x64.zip",
+    "sha256":  "f35b52898318a32506ecf6b6164e1e8176a90843098d6c9ba16d477e05614bbd",
+    "releaseNotes":  "Fixed browser image drag after skipping versions by making update patches cumulative."
 }
