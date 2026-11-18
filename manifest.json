@@ -1,10 +1,10 @@
 {
-    "version":  "1.1.52",
-    "releaseDate":  "2026-11-18T05:03:05Z",
+    "version":  "1.1.53",
+    "releaseDate":  "2026-11-18T07:46:31Z",
     "mandatory":  false,
     "packageType":  "patch",
     "baseVersion":  "1.1.42",
-    "downloadUrl":  "https://github.com/superfoxj/xtools_release/releases/download/v1.1.52/xTools-1.1.52-windows-x64.zip",
-    "sha256":  "3a060292667fa8fd87f00074113b98428d72de5def08af563e9ee058acdd22fa",
-    "releaseNotes":  "GitHub repositories: starred toggle, fork badge/count, upstream update detection with daily cache, Sync fork, Diverged status."
+    "downloadUrl":  "https://github.com/superfoxj/xtools_release/releases/download/v1.1.53/xTools-1.1.53-windows-x64.zip",
+    "sha256":  "fc1a7882e12ffe866ab2e85b63b0f33501109a244ed5be9111d1151f8769bb07",
+    "releaseNotes":  "Decode QR images framed by a dark border without a quiet zone."
 }
