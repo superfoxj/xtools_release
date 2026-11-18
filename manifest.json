@@ -1,10 +1,10 @@
 {
-    "version":  "1.1.49",
-    "releaseDate":  "2026-11-18T04:20:45Z",
+    "version":  "1.1.52",
+    "releaseDate":  "2026-11-18T05:03:05Z",
     "mandatory":  false,
     "packageType":  "patch",
     "baseVersion":  "1.1.42",
-    "downloadUrl":  "https://github.com/superfoxj/xtools_release/releases/download/v1.1.49/xTools-1.1.49-windows-x64.zip",
-    "sha256":  "9c68ffbb1f20755535fd6e6a89525591656a1928964ee3a0a125f298c64a688a",
-    "releaseNotes":  "GitHub repositories: add star toggle to show starred repositories."
+    "downloadUrl":  "https://github.com/superfoxj/xtools_release/releases/download/v1.1.52/xTools-1.1.52-windows-x64.zip",
+    "sha256":  "3a060292667fa8fd87f00074113b98428d72de5def08af563e9ee058acdd22fa",
+    "releaseNotes":  "GitHub repositories: starred toggle, fork badge/count, upstream update detection with daily cache, Sync fork, Diverged status."
 }
