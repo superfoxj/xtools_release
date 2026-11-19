@@ -1,10 +1,10 @@
 {
-    "version":  "1.1.55",
-    "releaseDate":  "2026-11-19T05:41:14Z",
+    "version":  "1.1.56",
+    "releaseDate":  "2026-11-19T06:08:29Z",
     "mandatory":  false,
     "packageType":  "patch",
     "baseVersion":  "1.1.42",
-    "downloadUrl":  "https://github.com/superfoxj/xtools_release/releases/download/v1.1.55/xTools-1.1.55-windows-x64.zip",
-    "sha256":  "a428f7ec437b6c0e0218a40af6c3303c8893b6e1c68afff144d0734034394d28",
-    "releaseNotes":  "QR reader: paste a screenshot from the clipboard (Paste image button or Ctrl+V) after PrtSc / Win+Shift+S."
+    "downloadUrl":  "https://github.com/superfoxj/xtools_release/releases/download/v1.1.56/xTools-1.1.56-windows-x64.zip",
+    "sha256":  "4ee6599938fb193570100835614c83d5f39c1bec58ebeecd5cadb0406eb09080",
+    "releaseNotes":  "Optional clipboard QR monitor (Settings \u003e QR Code Reader): copying an image or screenshot with a QR code brings xTools to the front with the result."
 }
