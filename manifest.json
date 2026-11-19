@@ -1,10 +1,10 @@
 {
-    "version":  "1.1.54",
-    "releaseDate":  "2026-11-18T08:32:59Z",
+    "version":  "1.1.55",
+    "releaseDate":  "2026-11-19T05:41:14Z",
     "mandatory":  false,
     "packageType":  "patch",
     "baseVersion":  "1.1.42",
-    "downloadUrl":  "https://github.com/superfoxj/xtools_release/releases/download/v1.1.54/xTools-1.1.54-windows-x64.zip",
-    "sha256":  "5f970f9900500c67b0f19faf8d5df7d681579e956a86d6bd22453dca46e88d1b",
-    "releaseNotes":  "QR reader now uses the WeChat QR detector: finds codes inside full screenshots and framed codes without a quiet zone."
+    "downloadUrl":  "https://github.com/superfoxj/xtools_release/releases/download/v1.1.55/xTools-1.1.55-windows-x64.zip",
+    "sha256":  "a428f7ec437b6c0e0218a40af6c3303c8893b6e1c68afff144d0734034394d28",
+    "releaseNotes":  "QR reader: paste a screenshot from the clipboard (Paste image button or Ctrl+V) after PrtSc / Win+Shift+S."
 }
